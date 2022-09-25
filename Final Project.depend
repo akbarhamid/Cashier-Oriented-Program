@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1558761983 source:c:\users\asus\desktop\tugas\college\semester 2\praktikum algoritma dan programan\final project\code\final project\main.c
+	"header.h"
+
+1558785446 c:\users\asus\desktop\tugas\college\semester 2\praktikum algoritma dan programan\final project\code\final project\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1558785446 source:c:\users\asus\desktop\tugas\college\semester 2\praktikum algoritma dan programan\final project\code\final project\function.c
+	"header.h"
+
